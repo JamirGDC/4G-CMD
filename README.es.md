@@ -1,5 +1,4 @@
-<!--hide-->
-# Vista previa de la línea de comandos
+<!--hide--> # Vista previa de la línea de comandos
 <!--endhide-->
 
 Este desafío de la línea de comando está diseñado para que te familiarices con la terminal. Este desafío recorre los comandos más usados y que cualquier desarrollador debe saber para tener éxito en la vida.
